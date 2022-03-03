@@ -17,8 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-RJYn7pCbc)
+- Live Site URL: [live site URL](https://me-profile-card.netlify.app/)
 
 ## My process
 
@@ -33,15 +33,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Continued development
 
-First I made a container for all the elements, then I put a QR code image and then I added the texts,
-Then I started adding the style to all the elements, I used Flexbox and then adjusted the elements to responsive to all the screens
+I used HTML and CSS to build this project. I made a container with flexbox, then formatted the Nasser to be in the middle and used colors like cyan and then gray.
 
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for flexbox property. I really liked this site and will use it going forward.
+- [w3schools](https://www.w3schools.com/css/css3_2dtransforms.asp) - This is an amazing article which helped me finally understand translate. I'd recommend it to anyone still learning this concept.
 
 
 
