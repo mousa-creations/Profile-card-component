@@ -17,8 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [My solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-RJYn7pCbc)
-- Live Site URL: [live site URL](https://me-profile-card.netlify.app/)
+- Solution URL: [MY solution URL here](https://github.com/mousa-creations/Profile-card-component.git)
+- Live Site URL: [Live site URL here](https://me-profile-card.netlify.app/)
 
 ## My process
 
@@ -33,14 +33,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Continued development
 
-I used HTML and CSS to build this project. I made a container with flexbox, then formatted the Nasser to be in the middle and used colors like cyan and then gray.
+I used HTML and CSS to build this project. I made a container with flexbox, then formatted the layout to be in the center and used colors like cyan for background and then gray for font.
 
 
 
 ### Useful resources
 
-- [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for flexbox property. I really liked this site and will use it going forward.
-- [w3schools](https://www.w3schools.com/css/css3_2dtransforms.asp) - This is an amazing article which helped me finally understand translate. I'd recommend it to anyone still learning this concept.
+- [Css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for flexbox property. I really liked this site and will use it going forward.
+- [W3schools](https://www.w3schools.com/css/css3_2dtransforms.asp) - This is an amazing article which helped me finally understand translate. I'd recommend it to anyone still learning this concept.
 
 
 
