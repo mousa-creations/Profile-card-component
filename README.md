@@ -33,7 +33,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Continued development
 
-I used HTML and CSS to build this project. I made a container with flexbox, then formatted the layout to be in the center and used colors like cyan for background and then gray for font.
+A company needs to introduce a responsive layout for profiles so that each user may customize their own card. They also want to use a card component as an interface for this feature.
+
+**front end design only**
+
+The first step is logging in to the system with a username and password. The login request is sent to the backend and then returns with information about the logged-in user. The app then stores that information about the user for later use in the app.
+
+After logging into the system, users are able to change their profile picture. Upon hovering over "Profile" at the top of the screen, a menu appears that allows users to toggle between personal information (name, email, etc.) or changing their profile picture. Upon clicking "Profile" on this menu, they are directed to a screen where they can upload their latest photo or select one from their stored camera roll. Once they have chosen what they want.
 
 
 
